@@ -7,7 +7,7 @@ A ready-to-go template for quick development of any application using Nuxt 3 and
 The following are included in this template:
 
 - Ready-to-go `pinia` configuration, with an example store included.
-- A simple `firebase-config.ts` plugin that initializes all the required Firebase features, which can be easily edited to add any other features one might need and change the values of the app configuration.
+- A simple `firebase-config.ts` plugin, pre-configured with all the essential Firebase features, which can effortlessly be edited to add new features and tweak app configuration values to suit your needs.
 - `app.vue` configured to have the `NuxtLayout` and `NuxtPage` components instead of the default `NuxtWelcome`.
 
 Simply make a page in `pages/` and get to coding!
